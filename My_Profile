@@ -2,30 +2,30 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Saurav Maity</title>
+    <title>ABC Organization</title>
   </head>
   <body>
     <img height="200" src="profile2.png"
     alt="Saurav Maity">
-    <h1>Saurav Here !!</h1>
-    <p><em>A techonology enthusiast, struggling in MNC.</em></p>
+    <h1>This is the landing page of our company</h1>
+    <p><em>We cater all your IT needs</em></p>
     <hr>
-    <h3>EDUCATION</h3>
+    <h3>Solutions</h3>
     <ul>
-      <li>Schooling <a href="http://darpan.kvs.gov.in/shaaladarpan/">Kendriya Vidyalaya</a></li>
-      <li>College: <a href=https://www.alphagroup.edu/arts-science/index.php>Alpha Arts & Science College, Chennai</a> </li>
+      <li>DevOps Solutions</li>
+      <li>Support Related Services </li>
+      <li>Cloud Services</li>
     </ul>
 
-    <h3>Work Experience</h3>
-    <table>
-
+    <h3>Contact Us</h3>
+   
       <tr>
-        <td>2017-2019</td>
-        <td>EMC Avamar</td>
+        <td>Hyderabad</td>
+        <td>040-12345678</td>
       </tr>
       <tr>
-        <td>2019-2020</td>
-        <td>CISCO</td>      
+        <td>Pune</td>
+        <td>000-121212121</td>      
       </tr>
       
     </table>
